@@ -1,0 +1,8 @@
+{
+  "ttfb_ms.p95_max": 250,
+  "time_to_audio_ms.p95_max": 300,
+  "underrun_stream_rate_max": 0.02,
+  "error_rate_max": 0.01,
+  "corpus_wer_max": 0.10,
+  "must_hear_pass_rate_min": 0.90
+}

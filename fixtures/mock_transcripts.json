@@ -1,0 +1,13 @@
+{
+  "_note": "Hand-written fixture transcripts for --mock --stt. They exercise the scorer; they are not Pulse output.",
+  "greeting": "Hi, this is Asha from the support team. How can I help you today?",
+  "otp": "Your one time password is 4 8 2 9 1 6. Please don't share it with anyone.",
+  "emi_amount": "Your EMI of rupees 12,450 is due on 5th November.",
+  "interest_rate": "Your loan is approved at 10.5 percent interest per year.",
+  "appointment": "Your appointment is on 14 March at 3.30 PM.",
+  "booking_ref": "Your booking reference is K 7 Q X 9.",
+  "email": "Please send the documents to support at example dot com.",
+  "doctor": "I'm connecting you to Doctor Raghavendra Ayer now.",
+  "callback": "We'll call you back on 98450 12763 within two hours.",
+  "policy_long": "Before we continue, I need to read out a short disclosure. This call is recorded for quality and training purposes. The premium shown on your statement includes applicable taxes. If you cancel within the free look period, the premium is refunded after deducting the proportionate risk charge and any stamp duty paid. Shall I go ahead and confirm the renewal for you?"
+}

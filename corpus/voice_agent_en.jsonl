@@ -1,0 +1,11 @@
+# Strings a voice agent says on a real call. reference = what the caller should hear (defaults to text).
+{"id": "greeting", "text": "Hi, this is Asha from the support team. How can I help you today?", "tags": ["short"]}
+{"id": "otp", "text": "Your one time password is 482916. Please don't share it with anyone.", "must_hear": ["482916"], "tags": ["digits"]}
+{"id": "emi_amount", "text": "Your EMI of ₹12,450 is due on 5 November.", "must_hear": ["12450", "5 november"], "tags": ["currency", "date"]}
+{"id": "interest_rate", "text": "Your loan is approved at 10.5% interest per year.", "must_hear": ["10.5 percent"], "tags": ["decimal"]}
+{"id": "appointment", "text": "Your appointment is on 14 March at 3:30 PM.", "must_hear": ["14 march", "3:30"], "tags": ["date", "time"]}
+{"id": "booking_ref", "text": "Your booking reference is K7QX9.", "must_hear": ["K7QX9"], "tags": ["alphanumeric"]}
+{"id": "email", "text": "Please send the documents to support@example.com.", "must_hear": ["support@example.com"], "tags": ["email"]}
+{"id": "doctor", "text": "I'm connecting you to Dr. Raghavendra Iyer now.", "must_hear": ["doctor raghavendra iyer"], "tags": ["name"]}
+{"id": "callback", "text": "We'll call you back on 98450 12763 within 2 hours.", "must_hear": ["98450", "12763"], "tags": ["phone"]}
+{"id": "policy_long", "text": "Before we continue, I need to read out a short disclosure. This call is recorded for quality and training purposes. The premium shown on your statement includes applicable taxes. If you cancel within the free look period, the premium is refunded after deducting the proportionate risk charge and any stamp duty paid. Shall I go ahead and confirm the renewal for you?", "tags": ["long"]}
